@@ -13,8 +13,6 @@ output:
 ## What is mean total number of steps taken per day?
 
 
-2. Calculate and report the mean and median of total numeber of steps taken per day
-
 
 
 
