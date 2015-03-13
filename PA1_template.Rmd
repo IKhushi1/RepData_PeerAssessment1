@@ -212,4 +212,3 @@ legend("topright", lty=c(1,1), col = c("red", "16"), legend = c("weekday", "week
 Looks like this person walks a lot on the weekends!
 
 
-
